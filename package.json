@@ -1,0 +1,14 @@
+{
+  "name": "com.slimenull.unity-minimaps",
+  "version": "0.0.1",
+  "displayName": "SlimeNull.UnityMinimaps",
+  "description": "Allows for quick creation of mini-maps in Unity. It supports static textures, dynamic camera rendering, target following, rotation, scaling, landmarks, and click navigation functionalities.",
+  "license": "MIT",
+  "keywords": [
+    "minimap"
+  ],
+  "author": {
+    "name": "SlimeNull",
+    "url": "https://slimenull.com"
+  }
+}

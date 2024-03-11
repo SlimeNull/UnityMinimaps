@@ -1,0 +1,16 @@
+{
+    "name": "SlimeNull.UnityMinimaps.Editor",
+    "rootNamespace": "SlimeNull.UnityMinimaps.Editor",
+    "references": [
+        "GUID:858c6fae5921d7846933b2ceae1aa2f4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
