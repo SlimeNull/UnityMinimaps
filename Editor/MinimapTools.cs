@@ -86,7 +86,6 @@ namespace SlimeNull.UnityMinimaps
             return textureSource;
         }
 
-
         MinimapTextureSource CreateTextureSource(GameObject gameObject, Camera renderCamera)
         {
             var textureSource = gameObject.AddComponent<MinimapRenderTextureSource>();
@@ -95,7 +94,6 @@ namespace SlimeNull.UnityMinimaps
             return textureSource;
         }
 
-
         Minimap CreateMinimap(Transform parent, Texture texture, int areaSize)
         {
             var minimap = CreateBasicMinimap(parent);
@@ -103,7 +101,6 @@ namespace SlimeNull.UnityMinimaps
 
             return minimap;
         }
-
 
         Minimap CreateMinimap(Transform parent, Camera renderCamera)
         {
